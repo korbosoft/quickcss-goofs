@@ -1,6 +1,11 @@
 [class^="markup"] > span {
     display: inline-block;
-    background-image: url("");
-    color: transparent;
+    background-image: url("https://github.com/korbosoft/quickcss-goofs/blob/main/gordos.jpg?raw=true");
+    color: transparent !important;
     background-size: 100% 100% ;
+}
+
+img {
+    content: url(https://github.com/korbosoft/quickcss-goofs/blob/main/gordos.jpg?raw=true);
+    object-fit: contain;
 }
