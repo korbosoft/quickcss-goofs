@@ -1,0 +1,6 @@
+[class^="markup"] > span {
+    display: inline-block;
+    background-image: url("");
+    color: transparent;
+    background-size: 100% 100% ;
+}
