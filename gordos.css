@@ -1,4 +1,4 @@
-[class^="markup"] > span {
+span {
     display: inline-block;
     background-image: url("https://github.com/korbosoft/quickcss-goofs/blob/main/gordos.jpg?raw=true");
     color: transparent !important;
